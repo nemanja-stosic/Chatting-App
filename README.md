@@ -1,6 +1,6 @@
 # Chatting-App
 
-This is simple chatting application based on UDP(User Datagram Protocol) socket programming which has Client and Server.
+This is simple chatting application based on UDP(User Datagram Protocol) socket programming which has Client side and Server side.
 
 Preview:
 
